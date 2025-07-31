@@ -151,13 +151,13 @@ main.f h1 {
 }
 
 #second {
-  background-color: #fff;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 300px;
-  padding: 60px 0;
-  flex-wrap: wrap;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+    padding: 60px 0;
+    flex-wrap: wrap;
 }
 
 #second a {
