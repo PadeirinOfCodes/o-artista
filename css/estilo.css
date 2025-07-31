@@ -7,6 +7,7 @@ footer {
   font-size: 14px;
   margin-bottom: 0px;
 }
+/* não sei porque, mas so no filme esse footer ta estranho*/
 
 #contato {
   display: flex;
@@ -154,7 +155,7 @@ main.f h1 {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 60px;
+  gap: 300px;
   padding: 60px 0;
   flex-wrap: wrap;
 }
